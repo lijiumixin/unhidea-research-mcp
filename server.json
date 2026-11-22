@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "com.unhidea/research-mcp",
+  "name": "io.github.lijiumixin/unhidea-research-mcp",
   "title": "UnHideA Wall Street Research MCP",
-  "description": "Remote Streamable HTTP & OAuth MCP server exposing 14 Wall Street sell-side equity research tools: search, cross-bank packs, sourced target-price/forecast history, counter-evidence retrieval, and point-in-time replay.",
+  "description": "Wall Street sell-side equity research MCP: 14 tools for search, cross-bank packs, and replay.",
   "version": "1.0.0",
   "websiteUrl": "https://unhidea.com/en/mcp",
   "repository": {
