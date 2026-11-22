@@ -1,5 +1,6 @@
 # UnHideA Research MCP Server
 
+[![Official MCP Registry](https://img.shields.io/badge/MCP%20Registry-io.github.lijiumixin%2Funhidea--research--mcp-6366f1.svg)](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.lijiumixin%2Funhidea-research-mcp/versions/latest)
 [![MCP](https://img.shields.io/badge/MCP-Streamable%20HTTP-111827.svg)](https://unhidea.com/en/mcp)
 [![Auth](https://img.shields.io/badge/Auth-OAuth%202.0%20%2B%20Bearer-2563eb.svg)](https://unhidea.com/en/mcp)
 [![Tools](https://img.shields.io/badge/Tools-14-16a34a.svg)](#available-tools)
@@ -7,6 +8,7 @@
 
 **Remote Streamable HTTP & OAuth 2.0 Model Context Protocol (MCP) server for Wall Street sell-side equity research, cross-institution company packs, sourced rating/target-price histories, and point-in-time research replay.**
 
+- **Official MCP Registry ID:** `io.github.lijiumixin/unhidea-research-mcp` (`v1.0.0`)
 - **Remote Endpoint:** `https://mcp.unhidea.com/mcp`
 - **Transport:** Streamable HTTP
 - **Authentication:** OAuth 2.0 Dynamic Client Registration (`research:read`, `research:write`) or personal Bearer key (`Authorization: Bearer <key>`)
