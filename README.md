@@ -1,6 +1,7 @@
 # UnHideA Research MCP Server
 
 [![Official MCP Registry](https://img.shields.io/badge/MCP%20Registry-io.github.lijiumixin%2Funhidea--research--mcp-6366f1.svg)](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.lijiumixin%2Funhidea-research-mcp/versions/latest)
+[![UnHideA Wall Street Research MCP connector](https://glama.ai/mcp/connectors/io.github.lijiumixin/unhidea-research-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lijiumixin/unhidea-research-mcp)
 [![MCP](https://img.shields.io/badge/MCP-Streamable%20HTTP-111827.svg)](https://unhidea.com/en/mcp)
 [![Auth](https://img.shields.io/badge/Auth-OAuth%202.0%20%2B%20Bearer-2563eb.svg)](https://unhidea.com/en/mcp)
 [![Tools](https://img.shields.io/badge/Tools-14-16a34a.svg)](#available-tools)
